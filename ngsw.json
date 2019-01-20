@@ -12,7 +12,7 @@
         "/main.32b017f9a85c4323fa0a.js",
         "/polyfills.bfaf123d018125a5506d.js",
         "/runtime.a66f828dca56eeb90e02.js",
-        "/styles.774ac30213df95267b5f.css"
+        "/styles.e695bbe81b2c3f450642.css"
       ],
       "patterns": [
         "https:\\/\\/fonts\\.googleapis\\.com\\/.*"
@@ -238,6 +238,7 @@
         "/assets/images/species/8.jpg",
         "/assets/images/species/9.jpg",
         "/assets/images/speciess.jpg",
+        "/assets/images/stars.png",
         "/assets/images/starships.jpg",
         "/assets/images/starships/10.jpg",
         "/assets/images/starships/11.jpg",
@@ -277,6 +278,7 @@
         "/assets/images/starships/77.jpg",
         "/assets/images/starships/9.jpg",
         "/assets/images/swbanner.gif",
+        "/assets/images/twinkling.png",
         "/assets/images/vehicles.jpg",
         "/assets/images/vehicles/14.jpg",
         "/assets/images/vehicles/16.jpg",
@@ -556,6 +558,7 @@
     "/assets/images/species/8.jpg": "16e947e83b97bac66f6cfbb57a44267c3285c1e0",
     "/assets/images/species/9.jpg": "14b862e7d8627f5e832997b2feecdb8f95963ae9",
     "/assets/images/speciess.jpg": "4435bd55b3cf40b47746cc2941fbd2d9a668f190",
+    "/assets/images/stars.png": "17a6e6aa56f105244bea2a5392ef2d8ce01c63c7",
     "/assets/images/starships.jpg": "022dcee85fe4683134779ed451b0a59ba998e32d",
     "/assets/images/starships/10.jpg": "d95aa5f5b383be04fd05fd93c48663ac469da6f4",
     "/assets/images/starships/11.jpg": "d8923b3cbd05500625538a08e9a23a30080b6d60",
@@ -595,6 +598,7 @@
     "/assets/images/starships/77.jpg": "536ed493ea915cf0ef574aa17d21162091efba80",
     "/assets/images/starships/9.jpg": "91a0376c810f694f4b4e937f510cea4ffeee6d0e",
     "/assets/images/swbanner.gif": "b79ebe3f76f6151c48be6bfb2dbadb2987d588ff",
+    "/assets/images/twinkling.png": "83718ed91a07b4a78b90f262d8e447ed3825fdf6",
     "/assets/images/vehicles.jpg": "0551d09ee58a76a6411c5081cc5a43645e5b885d",
     "/assets/images/vehicles/14.jpg": "3c10ba228c7f8604707c96fefa880e66dfaa91a1",
     "/assets/images/vehicles/16.jpg": "b299d75cbe6b10bf522aa32c61ee6071712d5ba3",
@@ -636,11 +640,11 @@
     "/assets/images/vehicles/76.jpg": "867cf3446e7a673d7c6c00231c52f510e96095e2",
     "/assets/images/vehicles/8.jpg": "5cc673acd400466a543dad2289720e02152a24ea",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "64b1b314fa4d052cbef3b40eb09c073858de9592",
+    "/index.html": "f95f368288286b9374c7e047b4378dde6465869a",
     "/main.32b017f9a85c4323fa0a.js": "5dda0d47c1e2caff58e3362bcec32d9c1eef03a0",
     "/polyfills.bfaf123d018125a5506d.js": "05b60ed2d025cba7ae90bef196be8624514d600e",
     "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
-    "/styles.774ac30213df95267b5f.css": "47701eca164a5c2e8d521505bae95129244d2707"
+    "/styles.e695bbe81b2c3f450642.css": "110139737cee6c329f5cd5f887d2c7823b43db34"
   },
   "navigationUrls": [
     {
