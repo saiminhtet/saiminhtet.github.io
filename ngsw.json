@@ -10,6 +10,7 @@
         "/favicon.ico",
         "/index.html",
         "/main.6dd43bf280cb0c3208ed.js",
+
         "/polyfills.bfaf123d018125a5506d.js",
         "/runtime.a66f828dca56eeb90e02.js",
         "/styles.774ac30213df95267b5f.css"
@@ -636,8 +637,13 @@
     "/assets/images/vehicles/76.jpg": "867cf3446e7a673d7c6c00231c52f510e96095e2",
     "/assets/images/vehicles/8.jpg": "5cc673acd400466a543dad2289720e02152a24ea",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+<<<<<<< HEAD
     "/index.html": "a5f304531fcb66b49985cf3ba8c28804f7c73d7e",
     "/main.6dd43bf280cb0c3208ed.js": "334d5e08338432cc93d864004077fefe9288b512",
+=======
+    "/index.html": "657411b703bd2fbb731f4047cc887bf8cdaaed9a",
+    "/main.1d56bbbaf3a61c40c3a4.js": "623ac07f2b525e30e5f736029f70e9de9347b581",
+>>>>>>> e038ec491ce2e5beca0d88af6e861aded3b9ee68
     "/polyfills.bfaf123d018125a5506d.js": "05b60ed2d025cba7ae90bef196be8624514d600e",
     "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "/styles.774ac30213df95267b5f.css": "47701eca164a5c2e8d521505bae95129244d2707"
