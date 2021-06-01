@@ -9,10 +9,10 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.32b017f9a85c4323fa0a.js",
-        "/polyfills.bfaf123d018125a5506d.js",
+        "/main.430f67b3e6a728fa2bc9.js",
+        "/polyfills.4dc255d7b01e1abd8023.js",
         "/runtime.a66f828dca56eeb90e02.js",
-        "/styles.e695bbe81b2c3f450642.css"
+        "/styles.cefe518f537fcfcc485b.css"
       ],
       "patterns": [
         "https:\\/\\/fonts\\.googleapis\\.com\\/.*"
@@ -277,6 +277,7 @@
         "/assets/images/starships/75.jpg",
         "/assets/images/starships/77.jpg",
         "/assets/images/starships/9.jpg",
+        "/assets/images/starwarshome.png",
         "/assets/images/swbanner.gif",
         "/assets/images/twinkling.png",
         "/assets/images/vehicles.jpg",
@@ -597,6 +598,7 @@
     "/assets/images/starships/75.jpg": "1dcd343fd9bea387492dfc3c3998e95fc7b6d37a",
     "/assets/images/starships/77.jpg": "536ed493ea915cf0ef574aa17d21162091efba80",
     "/assets/images/starships/9.jpg": "91a0376c810f694f4b4e937f510cea4ffeee6d0e",
+    "/assets/images/starwarshome.png": "6b52034c635a6d4ae7bc6951d1ffd6ee6b6bbfb5",
     "/assets/images/swbanner.gif": "b79ebe3f76f6151c48be6bfb2dbadb2987d588ff",
     "/assets/images/twinkling.png": "83718ed91a07b4a78b90f262d8e447ed3825fdf6",
     "/assets/images/vehicles.jpg": "0551d09ee58a76a6411c5081cc5a43645e5b885d",
@@ -640,11 +642,11 @@
     "/assets/images/vehicles/76.jpg": "867cf3446e7a673d7c6c00231c52f510e96095e2",
     "/assets/images/vehicles/8.jpg": "5cc673acd400466a543dad2289720e02152a24ea",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "f95f368288286b9374c7e047b4378dde6465869a",
-    "/main.32b017f9a85c4323fa0a.js": "5dda0d47c1e2caff58e3362bcec32d9c1eef03a0",
-    "/polyfills.bfaf123d018125a5506d.js": "05b60ed2d025cba7ae90bef196be8624514d600e",
+    "/index.html": "c036129be051e4afa297a97c122aa0514d5d61cc",
+    "/main.430f67b3e6a728fa2bc9.js": "6ce81f5722b8f16142054c6fd9e4ad66813a7bb0",
+    "/polyfills.4dc255d7b01e1abd8023.js": "cffd6fc4e2a79c9476d6184103735e85d4d2f57b",
     "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
-    "/styles.e695bbe81b2c3f450642.css": "110139737cee6c329f5cd5f887d2c7823b43db34"
+    "/styles.cefe518f537fcfcc485b.css": "3f90cb3841b9c255d43aa2aab6e2e52acf9090bd"
   },
   "navigationUrls": [
     {
